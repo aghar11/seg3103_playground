@@ -12,7 +12,3 @@ Ran a program to divide a numerator by a denominator witten in Java and Elixir. 
 ## Contributors
 
 Akarsh Gharge, 2021
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
