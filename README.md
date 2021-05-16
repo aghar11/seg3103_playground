@@ -2,32 +2,40 @@
 
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This repository will hold my lab work for course SEG 3103 Software Quality Assurance. All contibutions will be made by me, Akarsh Gharge.
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+assets: Holds screenshots from lab excercises.
+
+newmath_ex: Contains a division function written in Elixir which requests a numerator and denominator from a user and then displays the result of a division operation. Ther are also files test files inculded to test the division function using ExUnit testing.
+
+newmath_java: Contains a division function written in Java which requests a numerator and denominator from a user and then displays the result of a division operation. Ther are also files test files inculded to test the division function using JUnit testing.
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+The work in this repository is completed as part of the coursework for SEG 3103 at the University of Ottawa
+
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+This repository can be cloned to your local machine.
 
 ## API Reference
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Elixer Documentation: https://hexdocs.pm/elixir/Kernel.html
+
+ExUnit Documentation: https://hexdocs.pm/ex_unit/ExUnit.html
+
+Java Documentation: https://docs.oracle.com/en/java/
+
+JUnit Documentation: https://junit.org/junit5/
+
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+Tests are ran by executing the "./bin/test" command in a bash terminal from either the newmath_ex, or newmath_java directory. Examples of the command use can be found in the **assets** folder
 
 ## Contributors
 
 Akarsh Gharge, 2021
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
