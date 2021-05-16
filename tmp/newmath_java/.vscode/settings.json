@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "C:\\Users\\Akarsh\\Documents\\2021 School Year\\Summer 2021\\SEG3103 Software QA\\seg3103_playground\\tmp\\newmath_java\\lib\\junit-platform-console-standalone-1.7.1.jar"
-    ]
-}
