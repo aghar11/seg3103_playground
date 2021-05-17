@@ -10,7 +10,17 @@ assets: Holds screenshots from lab excercises.
 
 newmath_ex: Contains a division function written in Elixir which requests a numerator and denominator from a user and then displays the result of a division operation. Ther are also files test files inculded to test the division function using ExUnit testing.
 
+![alt text](https://github.com/aghar11/seg3103_playground/blob/main/assets/.bin.run%20Elixir%20Screenshot.JPG)
+
+![alt text](https://github.com/aghar11/seg3103_playground/blob/main/assets/.bin.test%20Elixir%20Screenshot.JPG)
+
+
+
 newmath_java: Contains a division function written in Java which requests a numerator and denominator from a user and then displays the result of a division operation. Ther are also files test files inculded to test the division function using JUnit testing.
+
+![alt_text](https://github.com/aghar11/seg3103_playground/blob/main/assets/.bin.run%20Java%20Screenshot.JPG)
+
+![alt_text](https://github.com/aghar11/seg3103_playground/blob/main/assets/.bin.test%20Java%20Screenshot.JPG)
 
 ## Motivation
 
